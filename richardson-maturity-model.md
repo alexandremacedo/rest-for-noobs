@@ -78,7 +78,7 @@ Formatos Comuns:
 - JSON HAL (application/hal+json): Um formato popular, mas ainda não amplamente adotado.
 - Seguir a RFC de hyperlinks já é suficiente para implementar controles de hipermídia corretamente.
 - Referência de Implementação
-  - API Tools Laminas (https://api-tools.getlaminas.org/)
+  - [API Tools Laminas](https://api-tools.getlaminas.org/)
 
 
 
